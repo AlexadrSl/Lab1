@@ -1,0 +1,32 @@
+E:\.creations\DSTU\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.exe
+E:\.creations\DSTU\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.deps.json
+E:\.creations\DSTU\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.json
+E:\.creations\DSTU\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.dev.json
+E:\.creations\DSTU\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.dll
+E:\.creations\DSTU\CSharp\lab1\lab1\bin\Debug\net5.0\ref\lab1.dll
+E:\.creations\DSTU\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.pdb
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.csproj.AssemblyReference.cache
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfoInputs.cache
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfo.cs
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.csproj.CoreCompileInputs.cache
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.dll
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\ref\lab1.dll
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.pdb
+E:\.creations\DSTU\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.genruntimeconfig.cache
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.exe
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.deps.json
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.json
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.dev.json
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.dll
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\bin\Debug\net5.0\ref\lab1.dll
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\bin\Debug\net5.0\lab1.pdb
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.csproj.AssemblyReference.cache
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfoInputs.cache
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfo.cs
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.csproj.CoreCompileInputs.cache
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.dll
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\ref\lab1.dll
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.pdb
+D:\ДГТУ\3 курс\СИ шарп\CSharp\lab1\lab1\obj\Debug\net5.0\lab1.genruntimeconfig.cache
